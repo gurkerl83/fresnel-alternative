@@ -1,0 +1,28 @@
+{
+  "name": "fresnel-alternative",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:gurkerl83/fresnel-alternative.git",
+  "author": "Gritsch Markus <markus.gritsch@millipede.me>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next build && next start"
+  },
+  "dependencies": {
+    "next": "12.2.4",
+    "react": "0.0.0-experimental-ca990e9a7-20220804",
+    "react-dom": "0.0.0-experimental-ca990e9a7-20220804"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.5",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  },
+  "packageManager": "yarn@3.2.2"
+}

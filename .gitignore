@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+.idea
+.next
+dist
+
+node_modules
+
+# >= v2 yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+
